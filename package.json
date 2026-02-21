@@ -32,7 +32,7 @@
     "@iconify-json/material-symbols": "^1.2.50",
     "@iconify-json/simple-icons": "^1.2.71",
     "@iconify/svelte": "^4.2.0",
-    "@swup/astro": "^1.7.0",
+    "@swup/astro": "^1.8.0",
     "@tailwindcss/typography": "^0.5.19",
     "astro": "5.13.10",
     "astro-expressive-code": "^0.41.4",
