@@ -4,7 +4,7 @@ tags:
   - Linux
   - Manjaro
   - Galgame
-category: [Galgame,Linux]
+category: Galgame
 comments: true
 image: 'https://img.amicors.cc/file/AgACAgUAAyEGAASEePlKAAMPZ531Nzx4VJLZPS1qKQdKKscBxXgAAjzBMRvE5fFULPspNWj8vU8BAAMCAAN5AAM2BA.png'
 top_img: 'https://img.amicors.cc/file/AgACAgUAAyEGAASEePlKAAMPZ531Nzx4VJLZPS1qKQdKKscBxXgAAjzBMRvE5fFULPspNWj8vU8BAAMCAAN5AAM2BA.png'
