@@ -15,12 +15,18 @@ if (!linksPost) {
 const { Content } = await linksPost.render()
 const items = [
   {
-    title: 'YukuNya',
+    title: 'Amicors',
     imgurl: '/src/assets/images/avatar.jpg',
     desc: '喵喵喵喵喵?',
     siteurl: 'https://blog.amicors.cc',
     tags: ['喵喵喵喵喵?'],
   },
+  {
+    title: "拔剑Sketon",
+    imgurl: "https://d-sketon.github.io/avatar/avatar.webp",
+    siteurl: "https://d-sketon.github.io/",
+    desc: "东方人的日常"
+  }
 ]
 ---
 <MainGridLayout title={i18n(I18nKey.links)} description={i18n(I18nKey.links)}>
