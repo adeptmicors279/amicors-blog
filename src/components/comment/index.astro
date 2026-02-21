@@ -1,0 +1,27 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import { commentConfig } from '@/config'
+import Waline from './Waline.astro'
+interface Props {
+  post: CollectionEntry<'posts'>
+}
+
+const { id, data, slug } = Astro.props.post
+
+const path = `/posts/${slug}`
+const url = `${Astro.site?.href}${path}`
+const comments = data.comments
+
+let commentService = ''
+if (commentConfig?.waline) {
+  commentService = 'waline'
+}
+---
+{ comments == true &&
+  (
+    <div class="card-base p-6 mb-5">
+      {commentService === 'waline' && <Waline path={path} />}
+      {commentService === '' && null}
+    </div>
+  )
+}
