@@ -48,7 +48,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.links,
 		{
 			name: "GitHub",
-			url: "https://github.com/YukuNya", // Internal links should not include the base path, as it is automatically added
+			url: "https://github.com/adeptmicors279", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 	],
@@ -64,7 +64,7 @@ export const profileConfig: ProfileConfig = {
 			icon: "simple-icons:x", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://x.com/YukuNya",
+			url: "https://x.com/AwA04759578",
 		},
 		{
 			name: "Steam",
@@ -74,7 +74,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/YukuNya",
+			url: "https://github.com/adeptmicors279",
 		},
 		{
 			name: "Telegram",
