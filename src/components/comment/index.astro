@@ -3,14 +3,14 @@ import type { CollectionEntry } from 'astro:content'
 import { commentConfig } from '@/config'
 import Waline from './Waline.astro'
 interface Props {
-  post: CollectionEntry<'posts'>
+  post: any
 }
 
 const { id, data, slug } = Astro.props.post
 
 const path = `/posts/${slug}`
 const url = `${Astro.site?.href}${path}`
-const comments = data.comments
+const comments = data.comment
 
 let commentService = ''
 if (commentConfig?.waline) {
