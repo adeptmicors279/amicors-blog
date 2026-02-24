@@ -7,7 +7,7 @@ import { i18n } from "../i18n/translation";
 import MainGridLayout from "../layouts/MainGridLayout.astro";
 
 const linksPost = await getEntry('spec', 'links')
-
+const { entry } = Astro.props;
 if (!linksPost) {
 	throw new Error("About page content not found");
 }
