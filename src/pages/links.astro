@@ -1,5 +1,5 @@
 ---
-
+import Comment from "@components/comment/index.astro";
 import { getEntry, render } from "astro:content";
 import Markdown from "@components/misc/Markdown.astro";
 import I18nKey from "../i18n/i18nKey";
@@ -68,6 +68,7 @@ const items = [
             </Markdown>
         </div>
     </div>
+    <Comment post={entry}></Comment>
 </MainGridLayout>
 
 <script>
