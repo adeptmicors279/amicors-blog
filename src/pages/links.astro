@@ -7,10 +7,10 @@ import { i18n } from "../i18n/translation";
 import MainGridLayout from "../layouts/MainGridLayout.astro";
 
 const linksPost = await getEntry('spec', 'links')
-(linksPost.data as any).comments = true;
 if (!linksPost) {
 	throw new Error("About page content not found");
 }
+(linksPost.data as any).comments = true;
 
 const { Content } = await linksPost.render()
 const items = [
