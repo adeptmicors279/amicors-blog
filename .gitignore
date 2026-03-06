@@ -29,3 +29,8 @@ yarn.lock
 # ide
 .idea
 *.iml
+
+# obsidian
+
+src/cpntent/posts/.obsidian/*
+
