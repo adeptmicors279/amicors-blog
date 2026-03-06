@@ -14,13 +14,14 @@ published: 2025-01-31 13:21:29
 
 # 引言
 
-{% note warning %}
+:::warning
 
 此文章并不一定百分百有效，具体请看个人
 
 本文对于一些汉化过的galgame并不百分百有效
 
-{% endnote %}
+:::
+
 
 有关Arch Linux游玩galgame的文章倒是不少，但是Manjaro倒是没几个
 
