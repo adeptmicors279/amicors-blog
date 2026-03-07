@@ -1,5 +1,5 @@
 ---
-title: Arch Linux 折腾记录
+title: 系统更换为Arch linux后的一些感言
 published: 2026-02-22 12:04:53
 tags:
   - Arch
