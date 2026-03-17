@@ -1,7 +1,7 @@
 ---
 title: 手搓VR的一些尝试
 description: 持续更新
-pubDate: 2026-03-18
+published: 2026-03-18
 tags:
   - VR
 ---
