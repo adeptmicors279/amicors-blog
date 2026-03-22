@@ -38,9 +38,9 @@ export default defineConfig({
 		tailwind({
 			nesting: true,
 		}),
-		defaultProps: {
+		defaultProps({
         	showLineNumbers: true,    // 所有代码块默认显示行号
-      	},
+      	}),
 		swup({
 			theme: false,
 			animationClass: "transition-swup-", // see https://swup.js.org/options/#animationselector
