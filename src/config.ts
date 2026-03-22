@@ -85,6 +85,11 @@ export const profileConfig: ProfileConfig = {
 			name:"RSS",
 			icon: "simple-icons:rss",
 			url: "/rss.xml"
+		},
+		{
+			name: "Email",
+			icon: "ic:baseline-attach-email",
+			url: "mailto:3463557382@qq.com"
 		}
 	],
 };
