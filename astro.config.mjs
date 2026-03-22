@@ -16,6 +16,8 @@ import remarkGithubAdmonitionsToDirectives from "remark-github-admonitions-to-di
 import remarkMath from "remark-math";
 import remarkSectionize from "remark-sectionize";
 import { expressiveCodeConfig } from "./src/config.ts";
+import { pluginLineNumbers } from "@expressive-code/plugin-line-numbers";
+import { pluginCollapsibleSections } from "@expressive-code/plugin-collapsible-sections";
 import { pluginLanguageBadge } from "./src/plugins/expressive-code/language-badge.ts";
 import { AdmonitionComponent } from "./src/plugins/rehype-component-admonition.mjs";
 import { GithubCardComponent } from "./src/plugins/rehype-component-github-card.mjs";
@@ -30,10 +32,15 @@ export default defineConfig({
 	base: "/",
 	trailingSlash: "always",
 	integrations: [
+		pluginLineNumbers(),      // 行号插件
+        pluginCollapsibleSections(), // 折叠插件
 		sitemap(),
 		tailwind({
 			nesting: true,
 		}),
+		defaultProps: {
+        	showLineNumbers: true,    // 所有代码块默认显示行号
+      	},
 		swup({
 			theme: false,
 			animationClass: "transition-swup-", // see https://swup.js.org/options/#animationselector
