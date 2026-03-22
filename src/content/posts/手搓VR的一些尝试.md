@@ -31,7 +31,7 @@ tags:
 
 并且写入程序
 ```c++
-collapse={1-5}
+collapse={5-311}
 #include "I2Cdev.h"
 #include "MPU6050_6Axis_MotionApps20.h"
 #if I2CDEV_IMPLEMENTATION == I2CDEV_ARDUINO_WIRE
