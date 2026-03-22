@@ -30,7 +30,8 @@ tags:
 首先，使用arduino开发板连接GY521
 
 并且写入程序
-```c++ collapse={1-5}
+```c++
+collapse={1-5}
 #include "I2Cdev.h"
 #include "MPU6050_6Axis_MotionApps20.h"
 #if I2CDEV_IMPLEMENTATION == I2CDEV_ARDUINO_WIRE
