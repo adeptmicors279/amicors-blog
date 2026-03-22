@@ -32,8 +32,7 @@ export default defineConfig({
 	base: "/",
 	trailingSlash: "always",
 	integrations: [
-		pluginLineNumbers(),      // 行号插件
-        pluginCollapsibleSections(), // 折叠插件
+
 		sitemap(),
 		tailwind({
 			nesting: true,
@@ -69,7 +68,9 @@ export default defineConfig({
 				pluginCollapsibleSections(),
 				pluginLineNumbers(),
 				pluginLanguageBadge(),
-				pluginCustomCopyButton()
+				pluginCustomCopyButton(),
+				pluginLineNumbers(),      // 行号插件
+        		pluginCollapsibleSections(), // 折叠插件
 			],
 			defaultProps: {
 				wrap: true,
