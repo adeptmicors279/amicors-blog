@@ -88,7 +88,7 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 			name: "Email",
-			icon: "ic:baseline-attach-email",
+			icon: "bx:bxs-envelope",
 			url: "mailto:3463557382@qq.com"
 		}
 	],
