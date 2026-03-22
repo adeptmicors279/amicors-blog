@@ -153,6 +153,9 @@ importers:
       '@biomejs/biome':
         specifier: 2.2.5
         version: 2.2.5
+      '@iconify-json/bx':
+        specifier: ^1.2.3
+        version: 1.2.3
       '@rollup/plugin-yaml':
         specifier: ^4.1.2
         version: 4.1.2(rollup@2.79.2)
@@ -1266,6 +1269,9 @@ packages:
 
   '@iconify-json/boxicons@1.2.0':
     resolution: {integrity: sha512-yAfCVaiZ5t2bC1xNVEdkWUI94e3u15IrytO2XFh8/7Y45M1i51adQpi42OhH2pUdsYM0/KY4Gklrb+XB+oZS/w==, tarball: https://registry.npmjs.org/@iconify-json/boxicons/-/boxicons-1.2.0.tgz}
+
+  '@iconify-json/bx@1.2.3':
+    resolution: {integrity: sha512-ihvX+2d688otgW7MAvUEdKVln+fZ28BJTlygazKUU/+RCODWT+2KObjAHe8+KPs4VhC8V6Tgoy1qrX0Myn/upA==}
 
   '@iconify-json/fa6-brands@1.2.6':
     resolution: {integrity: sha512-twL3X4KWcxAhbc1vz/mIDsVr+CAItk1/EIfxKUVQtpv6O4eydk5KNYqTZWdvJNHGInUgd6vKg21aWfVgb5DXEg==}
@@ -6825,6 +6831,10 @@ snapshots:
   '@fontsource/roboto@5.2.9': {}
 
   '@iconify-json/boxicons@1.2.0':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/bx@1.2.3':
     dependencies:
       '@iconify/types': 2.0.0
 
