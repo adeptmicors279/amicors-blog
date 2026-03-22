@@ -8,6 +8,7 @@ export const zh_CN: Translation = {
 	[Key.links]: "友链",
 	[Key.diary]: "日记",
 	[Key.search]: "搜索",
+	[Key.photowall]: "照片墙",
 
 	[Key.tags]: "标签",
 	[Key.categories]: "分类",

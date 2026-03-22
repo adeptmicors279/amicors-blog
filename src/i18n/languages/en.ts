@@ -8,6 +8,7 @@ export const en: Translation = {
 	[Key.links]: "Links",
 	[Key.diary]: "Diaty",
 	[Key.search]: "Search",
+	[Key.photowall]: "PhotoWall",
 
 	[Key.tags]: "Tags",
 	[Key.categories]: "Categories",

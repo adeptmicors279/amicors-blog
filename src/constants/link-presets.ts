@@ -23,4 +23,8 @@ export const LinkPresets: { [key in LinkPreset]: NavBarLink } = {
     	name: i18n(I18nKey.diary),
      	url: '/diary/',
    },
+   [LinkPreset.PhotoWall]: {
+		name: i18n(I18nKey.photowall),
+     	url: '/photowall/',
+   }
 };

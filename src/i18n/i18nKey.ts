@@ -5,6 +5,7 @@ enum I18nKey {
 	links = "links",
 	diary = "diary",
 	search = "search",
+	photowall = "photowall",
 
 	tags = "tags",
 	categories = "categories",
