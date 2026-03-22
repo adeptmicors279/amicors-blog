@@ -46,6 +46,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		LinkPreset.About,
 		LinkPreset.links,
+		LinkPreset.Diary,
 		{
 			name: "GitHub",
 			url: "https://github.com/adeptmicors279", // Internal links should not include the base path, as it is automatically added
