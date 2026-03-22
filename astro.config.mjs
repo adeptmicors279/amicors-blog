@@ -32,14 +32,10 @@ export default defineConfig({
 	base: "/",
 	trailingSlash: "always",
 	integrations: [
-
 		sitemap(),
 		tailwind({
 			nesting: true,
 		}),
-		defaultProps({
-        	showLineNumbers: true,    // 所有代码块默认显示行号
-      	}),
 		swup({
 			theme: false,
 			animationClass: "transition-swup-", // see https://swup.js.org/options/#animationselector
@@ -76,7 +72,7 @@ export default defineConfig({
 				wrap: true,
 				overridesByLang: {
 					'shellsession': {
-						showLineNumbers: false,
+						showLineNumbers: true,
 					},
 				},
 			},
@@ -105,7 +101,7 @@ export default defineConfig({
 				}
 			},
 			frames: {
-				showCopyToClipboardButton: false,
+				showCopyToClipboardButton: true,
 			}
 		}),
         svelte(),
