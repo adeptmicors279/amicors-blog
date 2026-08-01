@@ -1,6 +1,6 @@
 ---
 title: 手搓VR的一些尝试
-description: 持续更新
+description: 由于本人购入QUEST2所以不再折腾了
 published: 2026-03-18
 tags:
   - VR
@@ -358,4 +358,7 @@ True open VR里那个程序我嫌太麻烦了还要校准，所以用这个直�
 
 刚好ESP32支持microPython，我可以更方便的写程序（不用依赖AI了）
 
-（以下还未完成，后续会继续写）
+
+# 最新
+
+**由于本人已经购入Quest2，所以不再研究**
