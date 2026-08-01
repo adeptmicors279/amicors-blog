@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VRChat.md",
+                "file": "手搓VR的一些尝试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VRChat"
+              "title": "手搓VR的一些尝试"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "VRChat模型上传及修改记录"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,8 +197,9 @@
       "bases:新建数据库": false
     }
   },
-  "active": "1091233755ed2b8b",
+  "active": "e78c8fa1a5f00146",
   "lastOpenFiles": [
+    "2024-4-15随记.md",
     "VRChat.md",
     "VRChat模型上传及修改记录.md",
     "手搓VR的一些尝试.md",
