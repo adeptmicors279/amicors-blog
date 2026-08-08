@@ -6,8 +6,8 @@ tags:
   - Galgame
 category: Galgame
 comments: true
-image: 'https://img.amicors.cc/AgACAgUAAyEGAASEePlKAAMPZ531Nzx4VJLZPS1qKQdKKscBxXgAAjzBMRvE5fFULPspNWj8vU8BAAMCAAN5AAM2BA.png'
-top_img: 'https://img.amicors.cc/AgACAgUAAyEGAASEePlKAAMPZ531Nzx4VJLZPS1qKQdKKscBxXgAAjzBMRvE5fFULPspNWj8vU8BAAMCAAN5AAM2BA.png'
+image: 'https://img.amicors.cc/file/AgACAgUAAyEGAASEePlKAAMPZ531Nzx4VJLZPS1qKQdKKscBxXgAAjzBMRvE5fFULPspNWj8vU8BAAMCAAN5AAM2BA.png'
+top_img: 'https://img.amicors.cc/file/AgACAgUAAyEGAASEePlKAAMPZ531Nzx4VJLZPS1qKQdKKscBxXgAAjzBMRvE5fFULPspNWj8vU8BAAMCAAN5AAM2BA.png'
 abbrlink: 1aad9c90
 published: 2025-01-31 13:21:29
 ---
@@ -81,7 +81,7 @@ wine regedit
 ```
 
 这时候会自动跳转出来一个界面，大概如下
-![win regedit](https://img.amicors.cc/AgACAgUAAyEGAASEePlKAAMJZ5zbDP2IBFoXSGQjPxtou6s1wAQAAsLCMRvQjelUR64o8YFsDw0BAAMCAAN3AAM2BA.png)
+![win regedit](https://img.amicors.cc/file/AgACAgUAAyEGAASEePlKAAMJZ5zbDP2IBFoXSGQjPxtou6s1wAQAAsLCMRvQjelUR64o8YFsDw0BAAMCAAN3AAM2BA.png)
 你会发现，诶，文字怎么变成方格了
 这其实是缺失字体导致的，解决方法也很简单，将你准备好的字体移动到`/home/${username}/.wine/drive_c/windows/Fonts`（如果找不到`.wine`请打开显示隐藏文件）
 创建`zh.reg`
@@ -177,11 +177,11 @@ yay -S winetricks
 winetricks
 ```
 
-![如图](https://img.amicors.cc/AgACAgUAAyEGAASEePlKAAMKZ5zjMIkhYmOdG_dydkq2TkoUA8sAAuHCMRvQjelUFNI6dkUSgiQBAAMCAAN5AAM2BA.png)
+![如图](https://img.amicors.cc/file/AgACAgUAAyEGAASEePlKAAMKZ5zjMIkhYmOdG_dydkq2TkoUA8sAAuHCMRvQjelUFNI6dkUSgiQBAAMCAAN5AAM2BA.png)
 
 会出现如图GUI，意思是让你选一个wine的文件夹，默认就好
 这时候他会问你要不要发送数据这样利于winetricks的开发，看个人，我点的yes
-![](https://img.amicors.cc/AgACAgUAAyEGAASEePlKAAMLZ5zkBKi3REWzqdb3lYM8ep-2V3cAAuLCMRvQjelU6rM6oRx8XbgBAAMCAAN5AAM2BA.png)
+![](https://img.amicors.cc/file/AgACAgUAAyEGAASEePlKAAMLZ5zkBKi3REWzqdb3lYM8ep-2V3cAAuLCMRvQjelU6rM6oRx8XbgBAAMCAAN5AAM2BA.png)
 点击安装dll就好了
 他会让你选择安装的dll,值得注意的是，winetricks安装的dll有点是仅支持32位的
 所以选择安装dll时得注意
@@ -199,13 +199,13 @@ sudo pacman -S steam
 ```
 通过此命令下载steam
 登陆账号之后在设置里启用
-![设置界面](https://img.amicors.cc/AgACAgUAAyEGAASEePlKAAMMZ53si7yA7wyKoQQB5ZHcJ-Bi6VAAAi7BMRvE5fFUuUJFJ9342iYBAAMCAAN5AAM2BA.png)
+![设置界面](https://img.amicors.cc/file/AgACAgUAAyEGAASEePlKAAMMZ53si7yA7wyKoQQB5ZHcJ-Bi6VAAAi7BMRvE5fFUuUJFJ9342iYBAAMCAAN5AAM2BA.png)
 通过兼容性来启用steam的proton
 然后把你想要运行的exe文件添加到steam
 添加到steam之后点击齿轮图标
-![](https://img.amicors.cc/AgACAgUAAyEGAASEePlKAAMNZ53tAcViNFBeQU8c_iZBBqiZ5oAAAjDBMRvE5fFUxxGNuvecau0BAAMCAANtAAM2BA.png)
+![](https://img.amicors.cc/file/AgACAgUAAyEGAASEePlKAAMNZ53tAcViNFBeQU8c_iZBBqiZ5oAAAjDBMRvE5fFUxxGNuvecau0BAAMCAANtAAM2BA.png)
 找到`属性-->兼容性-->强制使用特定steam play兼容性工具`
-![](https://img.amicors.cc/AgACAgUAAyEGAASEePlKAAMOZ53tctnDwjNh3RjBH9TK900cw1UAAjLBMRvE5fFUD5R8ipFAicgBAAMCAAN4AAM2BA.png)
+![](https://img.amicors.cc/file/AgACAgUAAyEGAASEePlKAAMOZ53tctnDwjNh3RjBH9TK900cw1UAAjLBMRvE5fFUD5R8ipFAicgBAAMCAAN4AAM2BA.png)
 
 选择你要使用的proton版本，之后点击启动，steam就会下载proton了
 ***

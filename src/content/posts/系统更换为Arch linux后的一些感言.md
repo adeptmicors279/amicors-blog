@@ -17,7 +17,7 @@ Arch最麻烦的还得是纯cli安装，虽然有自动安装的archinstall但�
 我个人配置的桌面环境是hyprland+waybar
 ~~waybar配置的好丑不要在意~~
 
-![](https://img.amicors.cc/file/AgACAgUAAyEGAASEePlKAANiaasDK9fvp89N1xDwCvJBWPg5h8UAAswNaxsAATBYVTKJVIAMuPHUAQADAgADdwADOgQ.png)
+![](https://img.amicors.cc/AgACAgUAAyEGAASEePlKAANiaasDK9fvp89N1xDwCvJBWPg5h8UAAswNaxsAATBYVTKJVIAMuPHUAQADAgADdwADOgQ.png)
 
 其实Arch最吸引我的是它的滚动更新和毛胚房一样的系统，自定义性很强，可以按照喜好定制
 

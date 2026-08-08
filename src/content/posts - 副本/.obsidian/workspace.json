@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "萌新也能看懂的Galgame入坑教程.md",
+                "file": "记一次paddleocr打包问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "萌新也能看懂的Galgame入坑教程"
+              "title": "记一次paddleocr打包问题"
             }
           },
           {
@@ -69,9 +69,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -215,26 +213,21 @@
   },
   "active": "e78c8fa1a5f00146",
   "lastOpenFiles": [
-    "记一次paddleocr打包问题.md",
     "关于本站.md",
     "2024-6-8随记.md",
-    "Electron-builder无法下载github文件.md",
-    "装甲恶鬼村正英雄篇有感.md",
-    "永不落幕的前奏诗游玩有感.md",
-    "nonebot插件开发.md",
-    "手搓VR的一些尝试.md",
-    "头像.md",
-    "如何在Manjaro上游玩galgame.md",
-    "2024-4-15随记.md",
-    "平凡的天才展现才能，真正的天才让人忘记才能——樱之诗全线推完有感.md",
-    "萌新也能看懂的Galgame入坑教程.md",
-    "系统更换为Arch linux后的一些感言.md",
-    "新年快乐2025.md",
-    "若，生命于明日落幕.md",
     "2024-4-18随记.md",
+    "2024-4-15随记.md",
+    "头像.md",
+    "手搓VR的一些尝试.md",
     "高考后.md",
+    "若，生命于明日落幕.md",
+    "记一次paddleocr打包问题.md",
     "VRChat.md",
     "VRChat模型上传及修改记录.md",
-    "2022-07-08.md"
+    "系统更换为Arch linux后的一些感言.md",
+    "永不落幕的前奏诗游玩有感.md",
+    "Electron-builder无法下载github文件.md",
+    "2022-07-08.md",
+    "如何在Manjaro上游玩galgame.md"
   ]
 }

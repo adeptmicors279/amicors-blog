@@ -7,7 +7,7 @@ tags:
   - CSS
 description: 浅尝一下electron，以及有关electron-builder无法下载GitHub文件的问题
 category: Electron
-image: 'https://img.amicors.cc/file/AgACAgUAAyEGAASEePlKAAMQZ6Im_5D_ST9MiQM_5K98LRoAAXacAALowTEb8MAQVU70M9Pn2eBKAQADAgADeAADNgQ.png'
+image: 'https://img.amicors.cc/AgACAgUAAyEGAASEePlKAAMQZ6Im_5D_ST9MiQM_5K98LRoAAXacAALowTEb8MAQVU70M9Pn2eBKAQADAgADeAADNgQ.png'
 abbrlink: a85098ca
 published: 2025-02-04 22:07:00
 ---

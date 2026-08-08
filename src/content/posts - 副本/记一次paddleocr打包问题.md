@@ -4,8 +4,9 @@ comments: true
 tags:
   - Python
 category: Python
-image: 'https://img.amicors.cc/6633bdefd8268.png'
-top_img: 'https://t.mwm.moe/pc'
+image:
+  - https://img.amicors.cc/1785936229071_6633bdefd8268.png
+top_img: https://t.mwm.moe/pc
 abbrlink: 6793f133
 published: 2024-05-03 00:17:00
 ---
@@ -16,7 +17,7 @@ published: 2024-05-03 00:17:00
 
 `FileNotFoundError: [Errno 2] No such file or directory: 'E:\\python\\python3.11(64bit)\\dist\\demo1\\_internal\\paddleocr\\tools/__init__.py'`
 
-![报错内容如下](https://img.amicors.cc/6633bdefd8268.png)
+![报错内容如下](https://bucket.iczrx.cn/2024/05/03/6633bdefd8268.png)
 
 报错filenofound
 

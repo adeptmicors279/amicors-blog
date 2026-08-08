@@ -5,8 +5,8 @@ tags:
   - VNG
 category: Galgame
 comments: true
-image: 'https://img.amicors.cc/file/AgACAgUAAyEGAASEePlKAANXaM9GsEMVKsAv3ZtDO47HPiJvOGYAAqDKMRvWInhWQ96foqcxAAHyAQADAgADdwADNgQ.png'
-top_img: 'https://img.amicors.cc/file/AgACAgUAAyEGAASEePlKAANYaM9GyyyLOBiEpA5oym9NoqYLuxIAAqHKMRvWInhWCcishj9pbCkBAAMCAAN4AAM2BA.png'
+image: 'https://img.amicors.cc/AgACAgUAAyEGAASEePlKAANXaM9GsEMVKsAv3ZtDO47HPiJvOGYAAqDKMRvWInhWQ96foqcxAAHyAQADAgADdwADNgQ.png'
+top_img: 'https://img.amicors.cc/AgACAgUAAyEGAASEePlKAANYaM9GyyyLOBiEpA5oym9NoqYLuxIAAqHKMRvWInhWCcishj9pbCkBAAMCAAN4AAM2BA.png'
 keywords: 'krkr,ONSplayer,Galgame,模拟器，ACGN,萌新也能看懂的Galgame入坑教程'
 description: Galgame入坑指南
 abbrlink: 74d5df8b
@@ -43,7 +43,7 @@ published: 2024-05-03 01:12:01
 
 也许，你会在视频平台上看到过这些
 
-![ATRI](https://bucket.iczrx.cn/2024/05/03/6633cb6356b32.webp)
+![ATRI](https://img.amicors.cc/6633cb6356b32.webp)
 
 ![千恋万花](https://pica.zhimg.com/v2-d57d9a0fe26fd17bbbf491cd04d2a44a_720w.jpg?source=172ae18b)
 
@@ -98,7 +98,7 @@ Windows其实是最好入坑的一个平台
 
 ##### 下载即玩Steam
 
-![三色绘恋](https://bucket.iczrx.cn/2024/05/03/6633d1d78dc54.png)
+![三色绘恋](https://img.amicors.cc/6633d1d78dc54.png)
 
 steam上的Galgame基本下载即玩
 
@@ -112,15 +112,15 @@ steam上的Galgame基本下载即玩
 
 但是，你从网站上下载的文件，大概率是这样的
 
-![假装这是个Galgame](https://bucket.iczrx.cn/2024/05/03/6633d2a5d41ca.png)
+![假装这是个Galgame](https://img.amicors.cc/6633d2a5d41ca.png)
 
 这样的
 
-![假装这是个Galgame](https://bucket.iczrx.cn/2024/05/03/6633d2a67cefa.png)
+![假装这是个Galgame](https://img.amicors.cc/6633d2a67cefa.png)
 
 甚至是
 
-![假装这是个Galgame](https://bucket.iczrx.cn/2024/05/03/6633d2a754311.png)
+![假装这是个Galgame](https://img.amicors.cc/6633d2a754311.png)
 
 这样的!
 
@@ -148,7 +148,7 @@ PS:有的人会压缩两层，所以进去之后看到压缩包记得再次解�
 
 ###### 一些特殊情况
 
-![好臭的后缀](https://bucket.iczrx.cn/2024/05/03/6633d4aecd366.png)
+![好臭的后缀](https://img.amicors.cc/6633d4aecd366.png)
 
 这个叫做压缩包吗？
 
@@ -258,23 +258,23 @@ krkr其实是一款引擎，模拟器专门运行这款引擎所制作的游戏
 
 打开krkr模拟器，你会看到这个（记得给文件读写的权限不然什么都没有）
 
-![主界面，右边因机而异](https://bucket.iczrx.cn/2024/05/03/66344cb0ce548.jpg)
+![主界面，右边因机而异](https://img.amicors.cc/66344cb0ce548.jpg)
 
 找到你解压的文件的路径，并且选择里面的`data.xp3`文件自动开始游戏（等会我现在就去掏个手机给你搞教程.jpg)
 
 首先下载资源，我这里用恋爱成双FD演示
 
-![资源](https://bucket.iczrx.cn/2024/05/03/66344e29c8f8f.jpg)
+![资源](https://img.amicors.cc/66344e29c8f8f.jpg)
 
 
 
 创建一个文件夹并解压（文件夹方便管理）
 
-![创建文件夹](https://bucket.iczrx.cn/2024/05/03/66344e8e07183.jpg)
+![创建文件夹](https://img.amicors.cc/66344e8e07183.jpg)
 
-![进入目录](https://bucket.iczrx.cn/2024/05/03/66344e8e6b02f.jpg)
+![进入目录](https://img.amicors.cc/66344e8e6b02f.jpg)
 
-![解压](https://bucket.iczrx.cn/2024/05/03/66344e8ed3cc5.jpg)
+![解压](https://img.amicors.cc/66344e8ed3cc5.jpg)
 
 左侧进入目录后，长按进行解压，勾选基于另一窗口路径来解压到左边
 
@@ -286,21 +286,21 @@ krkr其实是一款引擎，模拟器专门运行这款引擎所制作的游戏
 
 接下来
 
-![打开krkr，找到目录](https://bucket.iczrx.cn/2024/05/03/66344f611c3e9.jpg)
+![打开krkr，找到目录](https://img.amicors.cc/66344f611c3e9.jpg)
 
 进入
 
 点击`data.xp3`
 
-![](https://bucket.iczrx.cn/2024/05/03/66344f61b87e7.jpg)
+![](https://img.amicors.cc/66344f61b87e7.jpg)
 
 成功进入游戏
 
-![游戏](https://bucket.iczrx.cn/2024/05/03/66344f6e32fae.jpg)
+![游戏](https://img.amicors.cc/66344f6e32fae.jpg)
 
 退出之后再进入主界面会发现左边记录下游戏的路径，点击直接快捷启动
 
-![](https://bucket.iczrx.cn/2024/05/03/66344f62495e4.jpg)
+![](https://img.amicors.cc/66344f62495e4.jpg)
 
 ###### onsplayer
 
@@ -334,17 +334,17 @@ exagear用好了可以干很多事情
 
 你甚至可以在上面玩别的PC游戏
 
-![exagear进入侧边栏](https://bucket.iczrx.cn/2024/05/03/663451d5a5cfc.jpg)
+![exagear进入侧边栏](https://img.amicors.cc/663451d5a5cfc.jpg)
 
 然后进入环境管理
 
-![环境管理](https://bucket.iczrx.cn/2024/05/03/663451d65c0ce.jpg)
+![环境管理](https://img.amicors.cc/663451d65c0ce.jpg)
 
 右上角新建一个环境
 
 设置如下
 
-![](https://bucket.iczrx.cn/2024/05/03/663451d71a86e.jpg)
+![](https://img.amicors.cc/663451d71a86e.jpg)
 
 最后启动，只要你会电脑就会操作wine兼容层
 
@@ -424,7 +424,7 @@ AppStore其实还是有Galgame的
 
 如果你下载了一堆压缩包是这样的
 
-![分卷压缩](https://bucket.iczrx.cn/2024/05/03/663461e20ba5c.png)
+![分卷压缩](https://img.amicors.cc/663461e20ba5c.png)
 
 别慌，这就是分卷压缩
 
@@ -515,7 +515,7 @@ AppStore其实还是有Galgame的
 
 下载之后双击LEInstaller.exe
 
-![转区工具](https://bucket.iczrx.cn/2024/05/03/663469af367c9.png)
+![转区工具](https://img.amicors.cc/663469af367c9.png)
 
 右边两个选框都点第一个
 
@@ -523,7 +523,7 @@ AppStore其实还是有Galgame的
 
 再去玩你想要转区的游戏，右键即可看到右键菜单里的Locale Emulator，鼠标移上去就可以看到选项
 
-![](https://bucket.iczrx.cn/2024/05/03/66346a3aee927.png)
+![](https://img.amicors.cc/66346a3aee927.png)
 
 # 结语
 

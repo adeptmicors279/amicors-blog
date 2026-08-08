@@ -77,7 +77,7 @@ with open(f'img/{id}.png', 'wb')as f:
 
 会发现如下
 
-![没有想要的图片](https://bucket.iczrx.cn/2024/05/12/66407937868fb.png)
+![没有想要的图片](https://img.amicors.cc/66407937868fb.png)
 
 于是xpath和bs4以及re正则提取界面源码的方法就没法用了
 
@@ -89,7 +89,7 @@ with open(f'img/{id}.png', 'wb')as f:
 
 搜索玩打开前端源码
 
-![界面源码](https://bucket.iczrx.cn/2024/05/12/664079b9b0d6b.png)
+![界面源码](https://img.amicors.cc/664079b9b0d6b.png)
 
 还是没有任何我们想要的东西
 
@@ -105,7 +105,7 @@ with open(f'img/{id}.png', 'wb')as f:
 
 最终，我发现了这个
 
-![抓包数据](https://bucket.iczrx.cn/2024/05/12/66407b20b4b20.png)
+![抓包数据](https://img.amicors.cc/66407b20b4b20.png)
 
 很长的名字
 
@@ -113,7 +113,7 @@ with open(f'img/{id}.png', 'wb')as f:
 
 打开看看
 
-![获取的数据](https://bucket.iczrx.cn/2024/05/12/66407b654541b.png)
+![获取的数据](https://img.amicors.cc/66407b654541b.png)
 
 居然是json
 
@@ -129,7 +129,7 @@ with open(f'img/{id}.png', 'wb')as f:
 
 打开其中一个
 
-![](https://bucket.iczrx.cn/2024/05/12/66407c18b6360.png)
+![](https://img.amicors.cc/66407c18b6360.png)
 
 这就是我想要得了
 

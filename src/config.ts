@@ -60,13 +60,13 @@ export const profileConfig: ProfileConfig = {
 	name: "AdeptMicors279",
 	bio: "喵喵喵喵喵?",
 	links: [
-		// {
-		// 	name: "X",
-		// 	icon: "simple-icons:x", // Visit https://icones.js.org/ for icon codes
-		// 	// You will need to install the corresponding icon set if it's not already included
-		// 	// `pnpm add @iconify-json/<icon-set-name>`
-		// 	url: "https://x.com/AwA04759578",
-		// },
+		{
+			name: "X",
+			icon: "simple-icons:x", // Visit https://icones.js.org/ for icon codes
+			// You will need to install the corresponding icon set if it's not already included
+			// `pnpm add @iconify-json/<icon-set-name>`
+			url: "https://x.com/AwA04759578",
+		},
 		{
 			name: "Steam",
 			icon: "fa6-brands:steam",

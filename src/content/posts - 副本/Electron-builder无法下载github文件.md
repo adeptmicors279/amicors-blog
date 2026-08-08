@@ -34,13 +34,13 @@ category: Electron
 
 `C:\Users\username\AppData\Local\electron\Cache`
 
-![](https://img.amicors.cc/AgACAgUAAyEGAASEePlKAAMRZ6nkDfm4fiVSHww7J-KDpAj4nLIAAsrFMRsVA0hVlA2JwNGGHxQBAAMCAAN5AAM2BA.png)
+![](https://img.amicors.cc/file/AgACAgUAAyEGAASEePlKAAMRZ6nkDfm4fiVSHww7J-KDpAj4nLIAAsrFMRsVA0hVlA2JwNGGHxQBAAMCAAN5AAM2BA.png)
 
-![](https://img.amicors.cc/AgACAgUAAyEGAASEePlKAAMSZ6nkMmPio3lUkKBDmdPBhNZ4f_wAAsvFMRsVA0hVA-ZigfHQV4oBAAMCAAN5AAM2BA.png)
+![](https://img.amicors.cc/file/AgACAgUAAyEGAASEePlKAAMSZ6nkMmPio3lUkKBDmdPBhNZ4f_wAAsvFMRsVA0hVA-ZigfHQV4oBAAMCAAN5AAM2BA.png)
 
 在`C:\Users\1\AppData\Local\electron-builder\Cache`中
 
-![](https://img.amicors.cc/AgACAgUAAyEGAASEePlKAAMTZ6nkboQih89oH1z21SgCnfbFMWgAAszFMRsVA0hVpkRMl2YlqmkBAAMCAAN5AAM2BA.png)
+![](https://img.amicors.cc/file/AgACAgUAAyEGAASEePlKAAMTZ6nkboQih89oH1z21SgCnfbFMWgAAszFMRsVA0hVpkRMl2YlqmkBAAMCAAN5AAM2BA.png)
 
 这样的图片不怎么方便，我列个树形图吧
 
