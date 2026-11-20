@@ -77,11 +77,11 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:github",
 			url: "https://github.com/adeptmicors279",
 		},
-		{
-			name: "Telegram",
-			icon: "simple-icons:telegram",
-			url: "https://t.me/auauauauaur"
-		},
+		// {
+		// 	name: "Telegram",
+		// 	icon: "simple-icons:telegram",
+		// 	url: "https://t.me/auauauauaur"
+		// },
 		{
 			name:"RSS",
 			icon: "simple-icons:rss",
